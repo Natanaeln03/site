@@ -1,7 +1,27 @@
 body {
-    background-color: beige;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     color: blue;
 
+}
+
+header {
+    background-color: aqua;
+}
+
+header a {
+    color: navy;
+    text-decoration: none;
+}
+
+article a {
+    background-color: aqua;
+    color: navy;
+    text-decoration: none;
+}
+
+footer {
+    background-color: aqua;
+    color: navy;
 }
