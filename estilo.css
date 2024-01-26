@@ -8,6 +8,13 @@ body {
 
 header {
     background-color: aqua;
+    padding: 30px;
+}
+
+article{
+    background-color: skyblue;
+    padding: 30px;
+    margin-bottom: 15px;
 }
 
 header a {
@@ -15,13 +22,18 @@ header a {
     text-decoration: none;
 }
 
-article a {
-    background-color: aqua;
+header {
+    background-color: white;
     color: navy;
     text-decoration: none;
+    padding: 10px;
 }
 
 footer {
     background-color: aqua;
     color: navy;
+    padding: 30px;
+}
+main{
+    padding: 10px;
 }
