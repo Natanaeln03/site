@@ -1,7 +1,6 @@
 
-
 body {
-    background-color: white;
+    background-color: deepskyblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     color: blue;
@@ -17,6 +16,21 @@ body {
     background-color: skyblue;
     padding: 30px;
     margin-bottom: 15px;
+    width: 1000PX;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.materia img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.materia h1 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: black;
 }
 
 .topo a {
@@ -29,13 +43,16 @@ body {
     color: navy;
     text-decoration: none;
     padding: 10px;
+    display: inline-block;
 }
 
 .rodape {
     background-color: aqua;
     color: navy;
-    padding: 30px;
+    padding: 10px;
+    text-align: center;
 }
+
 main{
     padding: 10px;
 }
@@ -49,9 +66,23 @@ main{
 .menu a:hover {
     color: fuchsia;
 }
- 
-.menu li{
-    margin-right: 20px; 
+
+.menu li {
+    margin-right: 20px;
+}
+
+.titulo {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+.texto {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: black;
 }
 
 .navegacao{
