@@ -139,3 +139,7 @@ textarea.campo {
     background-color: blue;
     outline: nome;
 }
+
+.mapa {
+    width: 100%;
+}
