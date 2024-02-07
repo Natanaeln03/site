@@ -12,8 +12,9 @@ body {
 }
 
 .topo {
-    background-color: aqua;
+    background-color: skyblue;
     padding: 30px;
+    font-size: 15px;
 }
 
 .materia {
@@ -58,7 +59,7 @@ body {
 } 
 
 .rodape {
-    background-color: aqua;
+    background-color: skyblue;
     color: navy;
     padding: 10px;
     text-align: center;
