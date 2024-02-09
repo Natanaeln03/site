@@ -55,7 +55,7 @@ body {
 }
 
 .botao:hover {
-    background-color: fuchsia;
+    background-color: deepskyblue;
 } 
 
 .rodape {
@@ -82,7 +82,7 @@ main{
 }
 
 .menu a:hover {
-    color: fuchsia;
+    color: deepskyblue;
 }
 
 .menu li {
@@ -126,7 +126,7 @@ main{
 .contato {
     background-color: aqua;
     padding: 30px;
-    width: 600px;
+    max-width: 320px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
